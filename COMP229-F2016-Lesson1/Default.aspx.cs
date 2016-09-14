@@ -14,7 +14,7 @@ namespace COMP229_F2016_Lesson1
          */
         protected void Page_Load(object sender, EventArgs e)
         {
-            HelloLabel.Text = "Hello word!\n This is my first asp.net webpage";
+            HelloLabel.Text = "Hello word!\n ";
         }
     }
 }
